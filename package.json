@@ -2,7 +2,7 @@
   "name": "vuejs-full",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Marlon Maxwel <marlonmleite@gmail.com>",
+  "author": "Reuven livneh <reuvenlivn@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
